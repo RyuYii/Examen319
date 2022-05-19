@@ -1,0 +1,9 @@
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\bin\Debug\FuncionesFS.exe.config
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\bin\Debug\FuncionesFS.XML
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\bin\Debug\FuncionesFS.exe
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\bin\Debug\FuncionesFS.pdb
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\bin\Debug\FSharp.Core.dll
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\bin\Debug\FSharp.Core.xml
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\obj\Debug\FuncionesFS.fsprojResolveAssemblyReference.cache
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\obj\Debug\FuncionesFS.exe
+c:\users\ieuser\documents\visual studio 2012\Projects\FuncionesFS\FuncionesFS\obj\Debug\FuncionesFS.pdb
