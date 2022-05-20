@@ -1,7 +1,19 @@
-# Ejercicio 4
+# Ejercicio 3
 
-En R con el uso de dataframe realiza una baraja del juego de cartas (no usar for)
+En Python realice un programa lógico de relación abuelos, nietos y primos (usando librerías de Prolog)
 
-![Ejecucion de programa](https://i.ibb.co/FXx9X7H/4.png)
+Para este proposito se uso el siguiente Arbol Genealogico:
+![arbol](https://proauge.files.wordpress.com/2015/08/harry-potter.jpg)
 
-La baraja de referencia: Baraja estándar de 52 cartas, con dos Jokers extra
+Resultado:
+![Ejecucion de programa](https://i.ibb.co/PDknFW0/3.png)
+
+Las cuestiones resueltas:
+
+- Arthur es Abuelo de Albus?
+- Los nietos de Arthur
+- Arthur es padre de Harry?
+- Arthur es padre de Ginny?
+- Arthur es Abuelo de Victoire?
+- Victoire es nieta de Molly?
+- Harry es cuñado de Bill?
